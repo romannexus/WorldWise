@@ -1,0 +1,89 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Ainsa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-04-28T09:34:19.640Z",
+      "notes": "",
+      "position": {
+        "lat": "42.343263271058895",
+        "lng": "0.06087819701198428"
+      },
+      "id": "e8N7zdhxlSE"
+    },
+    {
+      "cityName": "Fornelos de Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-05-03T12:54:19.807Z",
+      "notes": "",
+      "position": {
+        "lat": "42.35846907334903",
+        "lng": "-8.45277639360642"
+      },
+      "id": "4e5N6VhCwzY"
+    },
+    {
+      "cityName": "Crouy-sur-Cosson",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-05-06T19:46:48.394Z",
+      "notes": "",
+      "position": {
+        "lat": "47.63822256687182",
+        "lng": "1.6040039062500002"
+      },
+      "id": "-AAuqrvfga4"
+    },
+    {
+      "cityName": "Paniza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-05-13T21:36:51.632Z",
+      "notes": "",
+      "position": {
+        "lat": "41.27872093507728",
+        "lng": "-1.2285257070829372"
+      },
+      "id": "Suj4ky0Iymg"
+    },
+    {
+      "cityName": "La Union de Campos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-05-13T21:48:19.091Z",
+      "notes": "",
+      "position": {
+        "lat": "42.08257436727873",
+        "lng": "-5.3173828125"
+      },
+      "id": "6oubWEnNZmA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
